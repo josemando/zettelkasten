@@ -1,4 +1,4 @@
-# 202006062016 Animal farm by George Orwell
+# 20200606 Animal farm by George Orwell
 #book #georgeorwell #pinkfloyd
 
 ## About the author
@@ -46,7 +46,6 @@ Why Frederick invaded the farm and exploded the windmill?
 
 Pink Floyd's album Animal is somehow based on the book, and talks about three animals:
 Pigs, Dogs and Sheep.
-
 
 ## Where I learn this
 The book

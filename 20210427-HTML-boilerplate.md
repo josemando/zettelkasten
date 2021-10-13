@@ -1,4 +1,4 @@
-# 202104271545 HTML boilerplate
+# 20210427 HTML boilerplate
 #html
 
 ```
@@ -45,7 +45,6 @@
 ```
 
 ## Where I learned this
-
 https://www.matuzo.at/blog/html-boilerplate/
 
 ## Links
